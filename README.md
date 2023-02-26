@@ -5,5 +5,5 @@
 <ol>
 <li>AWS - Professional</li>
 <li>Azure</li>
-</li>TOGAF</li>
+<li>TOGAF</li>
 </ol>
