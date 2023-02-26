@@ -64,6 +64,6 @@ Connect your device to Azure AD in one of two ways:
 The Azure Active Directory self-service password reset (SSPR) feature lets you give users the ability to bypass helpdesk and reset their own passwords.
 
 Features:<br>
-    - SSPR requires an Azure AD account with Global Administrator privileges to manage SSPR options. This account can always reset their own passwords, no matter what options are configured.
-    - SSPR uses a security group to limit the users who have SSPR privileges.
-    - All user accounts in your organization must have a valid license to use SSPR.
+    - SSPR requires an Azure AD account with Global Administrator privileges to manage SSPR options. This account can always reset their own passwords, no matter what options are configured.<br>
+    - SSPR uses a security group to limit the users who have SSPR privileges.<br>
+    - All user accounts in your organization must have a valid license to use SSPR.<br>
